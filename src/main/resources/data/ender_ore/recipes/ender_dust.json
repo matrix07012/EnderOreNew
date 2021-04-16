@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ender_ore:ender_ore"
+  },
+  "result": "ender_ore:ender_dust",
+  "experience": 0.0,
+  "cookingtime": 300
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    "xxx",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "ender_ore:ender_dust"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:ender_pearl",
+    "count": 1
+  }
+}
